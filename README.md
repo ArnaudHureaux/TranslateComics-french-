@@ -1,2 +1,2 @@
-# TraducteurDeBD
+# TranslateComics
 Translate automatically comics
